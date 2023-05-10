@@ -3,7 +3,8 @@
     let  edad=10;
     
 
-    console.log("juana es bicht");
+    console.log("somos gente seria");
 
-    let zorra = true
+    let zorra = false
+    
  };
